@@ -9,3 +9,5 @@ Second change.
 third change!!!
 
 Fourth change - made in sidesw's repo. Lets see if it makes it to the smartcane version.
+
+Fifth change. Made in a local branch of the smartcane repo. I intend to submit it to a remote branch of the smartcane repo. Let's see if that happens.
